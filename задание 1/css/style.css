@@ -1,0 +1,12 @@
+.container .row .col{
+	border: 5px solid #fff;
+}
+.container .row{
+	margin-bottom: 5px;
+}
+.container .row .header{
+	min-height: 100px;  
+}
+.container .row .hh{
+	min-height: 70px;
+}
