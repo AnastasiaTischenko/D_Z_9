@@ -6,6 +6,9 @@
 	color: #fff;
 	padding-top: 25px;
 }
+.row .item{
+    padding-left: 22px;
+}
 .row .item li{
 	float: left;
 	background: #263238;
